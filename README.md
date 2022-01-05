@@ -1,1 +1,4 @@
 # flutter_ads_tapjoy
+
+FlutterでTapjoyのオファーウォールを表示するためのプラグインです。
+オファーウォールだけに対応しています。
